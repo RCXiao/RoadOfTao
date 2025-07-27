@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Scenes
+  m_EditorClassIdentifier: 
+  m_GroupName: Scenes
+  m_GUID: 621fe93b8865c2e4d86b2f231665f12d
+  m_SerializeEntries:
+  - m_GUID: 3f023a1bf809f2446941d3e133d7621c
+    m_Address: Menu
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 546ec192980eec54ca18b34bbd8c112d
+    m_Address: Assets/Art/Icons/Enemy (2).png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 58373793c56d80c4f847028795b8e1f4
+    m_Address: Map
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5eeb40d3e4fd45742ac2705d5d8107a7
+    m_Address: Assets/Scenes/Enemy_Hard.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9950911ef7522074c8a92a18f21504d7
+    m_Address: Learn
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b166803ff90f9004da84acc72b657c12
+    m_Address: Assets/Scenes/Enemy_BOSS.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b3f3ae927fa33ac43ab327455f8fab79
+    m_Address: Enemy_Normal
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cb890e36a66ba094890cad78f649de16
+    m_Address: Assets/Art/Icons/Enemy.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fba4663fac819b84f9eceff6c69d14b5
+    m_Address: Rest
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: b7fccac9cf7e6d443ba7f4c0d956b310, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 682c8e9923a169f47bc6b4a41ccb4b83, type: 2}
+    - {fileID: 11400000, guid: 17a0f6da7649fef459b4675424b85e9d, type: 2}

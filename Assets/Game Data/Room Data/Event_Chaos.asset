@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f721a80e7a5dd824797d001eaab0ea83, type: 3}
+  m_Name: Event_Chaos
+  m_EditorClassIdentifier: 
+  roomIcon: {fileID: 820145397319297485, guid: c7ab13ff3e8408b47a965b59a9b2c8b0, type: 3}
+  roomType: 2048
+  sceneThatNeedToBeLoad:
+    m_AssetGUID: fba4663fac819b84f9eceff6c69d14b5
+    m_SubObjectName: 
+    m_SubObjectGUID: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0

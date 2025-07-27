@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity_Project\\RoadOfTao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CC5EB7-834C-9307-F2F0-A9846F44FA02}|Assembly-CSharp.csproj|d:\\unity_project\\roadoftao\\assets\\scripts\\utilities\\showbuffeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3CC5EB7-834C-9307-F2F0-A9846F44FA02}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utilities\\showbuffeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CC5EB7-834C-9307-F2F0-A9846F44FA02}|Assembly-CSharp.csproj|D:\\Unity_Project\\RoadOfTao\\assets\\scripts\\utilities\\pooltool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3CC5EB7-834C-9307-F2F0-A9846F44FA02}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utilities\\pooltool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CC5EB7-834C-9307-F2F0-A9846F44FA02}|Assembly-CSharp.csproj|D:\\Unity_Project\\RoadOfTao\\assets\\scripts\\ui\\restroompanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3CC5EB7-834C-9307-F2F0-A9846F44FA02}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\restroompanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CC5EB7-834C-9307-F2F0-A9846F44FA02}|Assembly-CSharp.csproj|D:\\Unity_Project\\RoadOfTao\\assets\\scripts\\card effect\\damageeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3CC5EB7-834C-9307-F2F0-A9846F44FA02}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\card effect\\damageeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CC5EB7-834C-9307-F2F0-A9846F44FA02}|Assembly-CSharp.csproj|D:\\Unity_Project\\RoadOfTao\\assets\\scripts\\card\\monobehaviour\\cardonsmelt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3CC5EB7-834C-9307-F2F0-A9846F44FA02}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\card\\monobehaviour\\cardonsmelt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CC5EB7-834C-9307-F2F0-A9846F44FA02}|Assembly-CSharp.csproj|D:\\Unity_Project\\RoadOfTao\\assets\\scripts\\card\\monobehaviour\\carddraghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3CC5EB7-834C-9307-F2F0-A9846F44FA02}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\card\\monobehaviour\\carddraghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CC5EB7-834C-9307-F2F0-A9846F44FA02}|Assembly-CSharp.csproj|D:\\Unity_Project\\RoadOfTao\\assets\\scripts\\card\\monobehaviour\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3CC5EB7-834C-9307-F2F0-A9846F44FA02}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\card\\monobehaviour\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CC5EB7-834C-9307-F2F0-A9846F44FA02}|Assembly-CSharp.csproj|D:\\Unity_Project\\RoadOfTao\\assets\\scripts\\ui\\healthbarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3CC5EB7-834C-9307-F2F0-A9846F44FA02}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\healthbarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CC5EB7-834C-9307-F2F0-A9846F44FA02}|Assembly-CSharp.csproj|D:\\Unity_Project\\RoadOfTao\\assets\\scripts\\room\\monobehaviour\\mapgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3CC5EB7-834C-9307-F2F0-A9846F44FA02}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\room\\monobehaviour\\mapgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CC5EB7-834C-9307-F2F0-A9846F44FA02}|Assembly-CSharp.csproj|D:\\Unity_Project\\RoadOfTao\\assets\\scripts\\manager\\cardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3CC5EB7-834C-9307-F2F0-A9846F44FA02}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\cardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CC5EB7-834C-9307-F2F0-A9846F44FA02}|Assembly-CSharp.csproj|D:\\Unity_Project\\RoadOfTao\\assets\\scripts\\manager\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3CC5EB7-834C-9307-F2F0-A9846F44FA02}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CC5EB7-834C-9307-F2F0-A9846F44FA02}|Assembly-CSharp.csproj|D:\\Unity_Project\\RoadOfTao\\assets\\scripts\\ui\\fadepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3CC5EB7-834C-9307-F2F0-A9846F44FA02}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\fadepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CC5EB7-834C-9307-F2F0-A9846F44FA02}|Assembly-CSharp.csproj|D:\\Unity_Project\\RoadOfTao\\assets\\scripts\\manager\\sceneloadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3CC5EB7-834C-9307-F2F0-A9846F44FA02}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\sceneloadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CC5EB7-834C-9307-F2F0-A9846F44FA02}|Assembly-CSharp.csproj|D:\\Unity_Project\\RoadOfTao\\assets\\scripts\\utilities\\useless.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3CC5EB7-834C-9307-F2F0-A9846F44FA02}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utilities\\useless.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CC5EB7-834C-9307-F2F0-A9846F44FA02}|Assembly-CSharp.csproj|D:\\Unity_Project\\RoadOfTao\\assets\\scripts\\card effect\\effect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3CC5EB7-834C-9307-F2F0-A9846F44FA02}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\card effect\\effect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CC5EB7-834C-9307-F2F0-A9846F44FA02}|Assembly-CSharp.csproj|D:\\Unity_Project\\RoadOfTao\\assets\\scripts\\card effect\\strengthloseeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3CC5EB7-834C-9307-F2F0-A9846F44FA02}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\card effect\\strengthloseeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CC5EB7-834C-9307-F2F0-A9846F44FA02}|Assembly-CSharp.csproj|D:\\Unity_Project\\RoadOfTao\\assets\\scripts\\ui\\menupanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3CC5EB7-834C-9307-F2F0-A9846F44FA02}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\menupanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CardOnSmelt.cs",
+              "DocumentMoniker": "D:\\Unity_Project\\RoadOfTao\\Assets\\Scripts\\Card\\Monobehaviour\\CardOnSmelt.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Card\\Monobehaviour\\CardOnSmelt.cs",
+              "ToolTip": "D:\\Unity_Project\\RoadOfTao\\Assets\\Scripts\\Card\\Monobehaviour\\CardOnSmelt.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Card\\Monobehaviour\\CardOnSmelt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T12:09:48.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HealthBarController.cs",
+              "DocumentMoniker": "D:\\Unity_Project\\RoadOfTao\\Assets\\Scripts\\UI\\HealthBarController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\HealthBarController.cs",
+              "ToolTip": "D:\\Unity_Project\\RoadOfTao\\Assets\\Scripts\\UI\\HealthBarController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\HealthBarController.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAA3wFkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T11:44:26.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Useless.cs",
+              "DocumentMoniker": "D:\\Unity_Project\\RoadOfTao\\Assets\\Scripts\\Utilities\\Useless.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Utilities\\Useless.cs",
+              "ToolTip": "D:\\Unity_Project\\RoadOfTao\\Assets\\Scripts\\Utilities\\Useless.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Utilities\\Useless.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T09:09:07.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CardManager.cs",
+              "DocumentMoniker": "D:\\Unity_Project\\RoadOfTao\\Assets\\Scripts\\Manager\\CardManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\CardManager.cs",
+              "ToolTip": "D:\\Unity_Project\\RoadOfTao\\Assets\\Scripts\\Manager\\CardManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\CardManager.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAAAG8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T07:21:14.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DamageEffect.cs",
+              "DocumentMoniker": "D:\\Unity_Project\\RoadOfTao\\Assets\\Scripts\\Card Effect\\DamageEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Card Effect\\DamageEffect.cs",
+              "ToolTip": "D:\\Unity_Project\\RoadOfTao\\Assets\\Scripts\\Card Effect\\DamageEffect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Card Effect\\DamageEffect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T06:57:17.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MapGenerator.cs",
+              "DocumentMoniker": "D:\\Unity_Project\\RoadOfTao\\Assets\\Scripts\\Room\\Monobehaviour\\MapGenerator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Room\\Monobehaviour\\MapGenerator.cs",
+              "ToolTip": "D:\\Unity_Project\\RoadOfTao\\Assets\\Scripts\\Room\\Monobehaviour\\MapGenerator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Room\\Monobehaviour\\MapGenerator.cs",
+              "ViewState": "AQIAAOsAAAAAAAAAAAAgwIAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T07:05:41.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Effect.cs",
+              "DocumentMoniker": "D:\\Unity_Project\\RoadOfTao\\Assets\\Scripts\\Card Effect\\Effect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Card Effect\\Effect.cs",
+              "ToolTip": "D:\\Unity_Project\\RoadOfTao\\Assets\\Scripts\\Card Effect\\Effect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Card Effect\\Effect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T06:58:10.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShowBuffEffect.cs",
+              "DocumentMoniker": "D:\\Unity_Project\\RoadOfTao\\Assets\\Scripts\\Utilities\\ShowBuffEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Utilities\\ShowBuffEffect.cs",
+              "ToolTip": "D:\\Unity_Project\\RoadOfTao\\Assets\\Scripts\\Utilities\\ShowBuffEffect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Utilities\\ShowBuffEffect.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T18:58:13.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StrengthLoseEffect.cs",
+              "DocumentMoniker": "D:\\Unity_Project\\RoadOfTao\\Assets\\Scripts\\Card Effect\\StrengthLoseEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Card Effect\\StrengthLoseEffect.cs",
+              "ToolTip": "D:\\Unity_Project\\RoadOfTao\\Assets\\Scripts\\Card Effect\\StrengthLoseEffect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Card Effect\\StrengthLoseEffect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T18:50:19.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MenuPanel.cs",
+              "DocumentMoniker": "D:\\Unity_Project\\RoadOfTao\\Assets\\Scripts\\UI\\MenuPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\MenuPanel.cs",
+              "ToolTip": "D:\\Unity_Project\\RoadOfTao\\Assets\\Scripts\\UI\\MenuPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\MenuPanel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T03:21:07.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PoolTool.cs",
+              "DocumentMoniker": "D:\\Unity_Project\\RoadOfTao\\Assets\\Scripts\\Utilities\\PoolTool.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Utilities\\PoolTool.cs",
+              "ToolTip": "D:\\Unity_Project\\RoadOfTao\\Assets\\Scripts\\Utilities\\PoolTool.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Utilities\\PoolTool.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T03:21:01.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CardDragHandler.cs",
+              "DocumentMoniker": "D:\\Unity_Project\\RoadOfTao\\Assets\\Scripts\\Card\\Monobehaviour\\CardDragHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Card\\Monobehaviour\\CardDragHandler.cs",
+              "ToolTip": "D:\\Unity_Project\\RoadOfTao\\Assets\\Scripts\\Card\\Monobehaviour\\CardDragHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Card\\Monobehaviour\\CardDragHandler.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAIwCMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T17:05:32.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Card.cs",
+              "DocumentMoniker": "D:\\Unity_Project\\RoadOfTao\\Assets\\Scripts\\Card\\Monobehaviour\\Card.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Card\\Monobehaviour\\Card.cs",
+              "ToolTip": "D:\\Unity_Project\\RoadOfTao\\Assets\\Scripts\\Card\\Monobehaviour\\Card.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Card\\Monobehaviour\\Card.cs",
+              "ViewState": "AQIAAI8AAAAAAAAAAAAkwHIAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T17:05:14.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "D:\\Unity_Project\\RoadOfTao\\Assets\\Scripts\\Manager\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\UIManager.cs",
+              "ToolTip": "D:\\Unity_Project\\RoadOfTao\\Assets\\Scripts\\Manager\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\UIManager.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAQwAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T12:58:40.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RestRoomPanel.cs",
+              "DocumentMoniker": "D:\\Unity_Project\\RoadOfTao\\Assets\\Scripts\\UI\\RestRoomPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\RestRoomPanel.cs",
+              "ToolTip": "D:\\Unity_Project\\RoadOfTao\\Assets\\Scripts\\UI\\RestRoomPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\RestRoomPanel.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAwDMAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T07:16:05.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SceneLoadManager.cs",
+              "DocumentMoniker": "D:\\Unity_Project\\RoadOfTao\\Assets\\Scripts\\Manager\\SceneLoadManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\SceneLoadManager.cs",
+              "ToolTip": "D:\\Unity_Project\\RoadOfTao\\Assets\\Scripts\\Manager\\SceneLoadManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\SceneLoadManager.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAIwDUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T03:50:39.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FadePanel.cs",
+              "DocumentMoniker": "D:\\Unity_Project\\RoadOfTao\\Assets\\Scripts\\UI\\FadePanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\FadePanel.cs",
+              "ToolTip": "D:\\Unity_Project\\RoadOfTao\\Assets\\Scripts\\UI\\FadePanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\FadePanel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T09:03:56.824Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

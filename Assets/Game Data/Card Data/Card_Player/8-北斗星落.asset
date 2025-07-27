@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6345e75d7fe46ca429209d5bff9c21f6, type: 3}
+  m_Name: "8-\u5317\u6597\u661F\u843D"
+  m_EditorClassIdentifier: 
+  cardName0: "\u5317\u6597\u661F\u843D"
+  cardName1: "\u5317\u6597\u661F\u843D"
+  cardImage0: {fileID: 8650892658112289615, guid: 21efbdf272fe09e47a011588ec86db88, type: 3}
+  cardImage1: {fileID: 8650892658112289615, guid: 21efbdf272fe09e47a011588ec86db88, type: 3}
+  cardID0: 8
+  cardID1: 8
+  cardCost_0: 2
+  cardCost_1: 2
+  cardType_0: 1
+  cardType_1: 1
+  cardDescription_0: "\u5BF9\u76EE\u6807\u65BD\u52A0<color=\"red\">\u4E8C</color>\u653B<color=\"red\">\u4E03</color>\u56DE\uFF0C\u62BD\u53D6<color=\"red\">\u4E00</color>\u5F20\u9053\u6CD5"
+  cardDescription_1: "\u5BF9\u76EE\u6807\u65BD\u52A0<color=\"red\">\u4E09</color>\u653B<color=\"red\">\u4E94</color>\u56DE\uFF0C\u62BD\u53D6<color=\"red\">\u4E00</color>\u5F20\u9053\u6CD5"
+  effects_0:
+  - {fileID: 11400000, guid: 14cbc4cb492bbed4c8174e693863d710, type: 2}
+  - {fileID: 11400000, guid: 14cbc4cb492bbed4c8174e693863d710, type: 2}
+  - {fileID: 11400000, guid: 14cbc4cb492bbed4c8174e693863d710, type: 2}
+  - {fileID: 11400000, guid: 14cbc4cb492bbed4c8174e693863d710, type: 2}
+  - {fileID: 11400000, guid: 14cbc4cb492bbed4c8174e693863d710, type: 2}
+  - {fileID: 11400000, guid: 14cbc4cb492bbed4c8174e693863d710, type: 2}
+  - {fileID: 11400000, guid: 14cbc4cb492bbed4c8174e693863d710, type: 2}
+  - {fileID: 11400000, guid: 702757fffb4d9b74a849bf22773087cf, type: 2}
+  effects_1:
+  - {fileID: 11400000, guid: 79920eb470047ab4394c6e754b4ef1fb, type: 2}
+  - {fileID: 11400000, guid: 79920eb470047ab4394c6e754b4ef1fb, type: 2}
+  - {fileID: 11400000, guid: 79920eb470047ab4394c6e754b4ef1fb, type: 2}
+  - {fileID: 11400000, guid: 79920eb470047ab4394c6e754b4ef1fb, type: 2}
+  - {fileID: 11400000, guid: 79920eb470047ab4394c6e754b4ef1fb, type: 2}
+  - {fileID: 11400000, guid: 702757fffb4d9b74a849bf22773087cf, type: 2}

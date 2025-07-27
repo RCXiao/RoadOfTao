@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6345e75d7fe46ca429209d5bff9c21f6, type: 3}
+  m_Name: "5-\u5F15\u6C14\u8BC0"
+  m_EditorClassIdentifier: 
+  cardName0: "\u5F15\u6C14\u8BC0"
+  cardName1: "\u5F15\u6C14\u8BC0"
+  cardImage0: {fileID: 1027675616233372387, guid: 80b9b75ca1652da41b43bf73fef053fe, type: 3}
+  cardImage1: {fileID: 1027675616233372387, guid: 80b9b75ca1652da41b43bf73fef053fe, type: 3}
+  cardID0: 5
+  cardID1: 5
+  cardCost_0: 1
+  cardCost_1: 0
+  cardType_0: 0
+  cardType_1: 0
+  cardDescription_0: "\u62BD\u53D6<color=\"red\">\u4E09</color>\u5F20\u9053\u6CD5"
+  cardDescription_1: "\u83B7\u5F97<color=\"red\">\u4E8C</color>\u70B9\u6C14"
+  effects_0:
+  - {fileID: 11400000, guid: f24cecb194d07a5469ec633f4f2e90bc, type: 2}
+  effects_1:
+  - {fileID: 11400000, guid: cd8d23869061bf24aa32bc0102fd72ff, type: 2}
+  - {fileID: 11400000, guid: cd8d23869061bf24aa32bc0102fd72ff, type: 2}

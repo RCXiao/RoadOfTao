@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f721a80e7a5dd824797d001eaab0ea83, type: 3}
+  m_Name: Enemy_Special
+  m_EditorClassIdentifier: 
+  roomIcon: {fileID: -3573937264508590599, guid: f6efb6e99ef3f1749a3e076aa8339b7c, type: 3}
+  roomType: 8
+  sceneThatNeedToBeLoad:
+    m_AssetGUID: b3f3ae927fa33ac43ab327455f8fab79
+    m_SubObjectName: 
+    m_SubObjectGUID: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
